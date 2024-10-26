@@ -1,5 +1,11 @@
 ﻿# CBI-013-Django
 
-<div>
-<h1>class one</h1>
+<style>
+    .center {
+        text-align: center;
+    }
+</style>
+
+<div class="center">
+    <h1>Class One - Date 26/10/2024</h1>
 </div>
